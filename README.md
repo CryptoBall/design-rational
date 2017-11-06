@@ -7,6 +7,10 @@ Since our team decided to remain anonymous, communication became very critical t
 ### Table of Contents
 
 - [Logo](/CryptoBall/design-rational/notes/LOGO.md)
+- [Web client MVP](/CryptoBall/design-rational/notes/WEB_CLIENT.md)
+  1. [Plan and user stories](/CryptoBall/design-rational/notes/WEB_CLIENT_1_PLAN_USER_STORIES.md)
+  2. Wireframes
+  3. High-fidelity mockups
 
 ### Disclaimer
 
