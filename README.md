@@ -9,8 +9,9 @@ Since our team decided to remain anonymous, communication became very critical t
 - [Logo](/CryptoBall/design-rational/notes/LOGO.md)
 - [Web client MVP](/CryptoBall/design-rational/notes/WEB_CLIENT.md)
   1. [Plan and user stories](/CryptoBall/design-rational/notes/WEB_CLIENT_1_PLAN_USER_STORIES.md)
-  2. Wireframes
-  3. High-fidelity mockups
+  2. [Wireframes](/CryptoBall/design-rational/notes/WEB_CLIENT_2_WIREFRAMES.md)
+  3. [High-fidelity mockups](/CryptoBall/design-rational/notes/WEB_CLIENT_3_HIGH_FIDELITY_MOCKUPS.md)
+- [Landing website MVP](/CryptoBall/design-rational/notes/LANDING_WEBSITE.md)
 
 ### Disclaimer
 
