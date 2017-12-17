@@ -7,7 +7,7 @@ Since our team decided to remain anonymous, communication became very critical t
 ### Table of Contents
 
 * [Logo](/notes/LOGO.md)
-* [Web client MVP](/notes/WEB_CLIENT.md)
+* Web client MVP
   1. [Plan and user stories](/notes/WEB_CLIENT_1_PLAN_USER_STORIES.md)
   2. [Wireframes](/notes/WEB_CLIENT_2_WIREFRAMES.md)
   3. [High-fidelity mockups](/notes/WEB_CLIENT_3_HIGH_FIDELITY_MOCKUPS.md)
